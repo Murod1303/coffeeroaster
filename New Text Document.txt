@@ -1,0 +1,7 @@
+fonts -
+title -
+bg -
+footer -
+push to github
+netlify 
+send to Shahobiddin
